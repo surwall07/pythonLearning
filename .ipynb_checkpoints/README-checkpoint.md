@@ -15,7 +15,8 @@
     * [json](json.ipynb)
 10. [异常](error_handle.ipynb)
 
-
+# python高级
+1. [正则表达式](regular_expression.ipynb)
 # python附录
 1. [api](api.ipynb)
 
